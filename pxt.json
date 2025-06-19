@@ -1,5 +1,6 @@
 {
   "name": "Lopende Band EXT",
+  "version": "2.0",
   "description": "Motor + kleurdetectie",
   "dependencies": {
     "core": "*",
