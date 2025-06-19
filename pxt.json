@@ -1,0 +1,20 @@
+{
+  "name": "Lopende Band EXT",
+  "description": "Motor + kleurdetectie",
+  "dependencies": {
+    "core": "*",
+    "radio": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "targetVersions": {
+    "target": "7.0.61",
+    "targetId": "microbit"
+  },
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "tsprj"
+}
